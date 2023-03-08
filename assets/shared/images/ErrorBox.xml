@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ErrorBox.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Error20000" x="14" y="14" width="213" height="125" frameX="0" frameY="-23" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20001" x="14" y="14" width="213" height="125" frameX="0" frameY="-18" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20002" x="240" y="14" width="213" height="125" frameX="0" frameY="-14" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20003" x="14" y="152" width="213" height="125" frameX="0" frameY="-10" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20004" x="240" y="14" width="213" height="125" frameX="0" frameY="-7" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20005" x="14" y="152" width="213" height="125" frameX="0" frameY="-4" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20006" x="14" y="152" width="213" height="125" frameX="0" frameY="-2" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20007" x="14" y="14" width="213" height="125" frameX="0" frameY="-1" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20008" x="14" y="14" width="213" height="125" frameX="0" frameY="0" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20009" x="14" y="14" width="213" height="125" frameX="0" frameY="0" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20010" x="14" y="14" width="213" height="125" frameX="0" frameY="0" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20011" x="14" y="14" width="213" height="125" frameX="0" frameY="0" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20012" x="14" y="14" width="213" height="125" frameX="0" frameY="-2" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20013" x="240" y="152" width="213" height="125" frameX="0" frameY="-3" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20014" x="14" y="14" width="213" height="125" frameX="0" frameY="-5" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20015" x="14" y="152" width="213" height="125" frameX="0" frameY="-8" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20016" x="14" y="152" width="213" height="125" frameX="0" frameY="-11" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20017" x="14" y="14" width="213" height="125" frameX="0" frameY="-15" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20018" x="14" y="14" width="213" height="125" frameX="0" frameY="-19" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20019" x="14" y="14" width="213" height="125" frameX="0" frameY="-23" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20020" x="14" y="152" width="213" height="125" frameX="0" frameY="-28" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20021" x="14" y="152" width="213" height="125" frameX="0" frameY="-32" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20022" x="240" y="14" width="213" height="125" frameX="0" frameY="-36" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20023" x="14" y="152" width="213" height="125" frameX="0" frameY="-39" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20024" x="14" y="14" width="213" height="125" frameX="0" frameY="-42" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20025" x="14" y="152" width="213" height="125" frameX="0" frameY="-44" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20026" x="14" y="14" width="213" height="125" frameX="0" frameY="-46" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20027" x="240" y="14" width="213" height="125" frameX="0" frameY="-47" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20028" x="14" y="14" width="213" height="125" frameX="0" frameY="-48" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20029" x="240" y="14" width="213" height="125" frameX="0" frameY="-48" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20030" x="14" y="14" width="213" height="125" frameX="0" frameY="-48" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20031" x="240" y="14" width="213" height="125" frameX="0" frameY="-47" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20032" x="14" y="14" width="213" height="125" frameX="0" frameY="-46" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20033" x="14" y="152" width="213" height="125" frameX="0" frameY="-44" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20034" x="14" y="14" width="213" height="125" frameX="0" frameY="-42" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20035" x="14" y="152" width="213" height="125" frameX="0" frameY="-39" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20036" x="240" y="14" width="213" height="125" frameX="0" frameY="-36" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20037" x="14" y="152" width="213" height="125" frameX="0" frameY="-32" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20038" x="14" y="152" width="213" height="125" frameX="0" frameY="-28" frameWidth="213" frameHeight="173"/>
+	<SubTexture name="Error20039" x="14" y="14" width="213" height="125" frameX="0" frameY="-23" frameWidth="213" frameHeight="173"/>
+</TextureAtlas>

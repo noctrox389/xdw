@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cenario.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Chaiow30000" x="30" y="30" width="4601" height="669" frameX="0" frameY="0" frameWidth="6016" frameHeight="669"/>
+	<SubTexture name="Chaiow30001" x="30" y="799" width="4601" height="669" frameX="-102" frameY="0" frameWidth="6016" frameHeight="669"/>
+	<SubTexture name="Chaiow30002" x="30" y="799" width="4601" height="669" frameX="-203" frameY="0" frameWidth="6016" frameHeight="669"/>
+	<SubTexture name="Chaiow30003" x="30" y="799" width="4601" height="669" frameX="-304" frameY="0" frameWidth="6016" frameHeight="669"/>
+	<SubTexture name="Chaiow30004" x="30" y="799" width="4601" height="669" frameX="-405" frameY="0" frameWidth="6016" frameHeight="669"/>
+	<SubTexture name="Chaiow30005" x="30" y="799" width="4601" height="669" frameX="-506" frameY="0" frameWidth="6016" frameHeight="669"/>
+	<SubTexture name="Chaiow30006" x="30" y="799" width="4601" height="669" frameX="-607" frameY="0" frameWidth="6016" frameHeight="669"/>
+	<SubTexture name="Chaiow30007" x="30" y="799" width="4601" height="669" frameX="-708" frameY="0" frameWidth="6016" frameHeight="669"/>
+	<SubTexture name="Chaiow30008" x="30" y="799" width="4601" height="669" frameX="-809" frameY="0" frameWidth="6016" frameHeight="669"/>
+	<SubTexture name="Chaiow30009" x="30" y="799" width="4601" height="669" frameX="-910" frameY="0" frameWidth="6016" frameHeight="669"/>
+	<SubTexture name="Chaiow30010" x="30" y="799" width="4601" height="669" frameX="-1011" frameY="0" frameWidth="6016" frameHeight="669"/>
+	<SubTexture name="Chaiow30011" x="30" y="799" width="4601" height="669" frameX="-1112" frameY="0" frameWidth="6016" frameHeight="669"/>
+	<SubTexture name="Chaiow30012" x="30" y="799" width="4601" height="669" frameX="-1213" frameY="0" frameWidth="6016" frameHeight="669"/>
+	<SubTexture name="Chaiow30013" x="30" y="799" width="4601" height="669" frameX="-1314" frameY="0" frameWidth="6016" frameHeight="669"/>
+	<SubTexture name="Chaiow30014" x="30" y="799" width="4601" height="669" frameX="-1415" frameY="0" frameWidth="6016" frameHeight="669"/>
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-65,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-85,
+				63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-71,
+				63
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "Dodgeanim",
+			"indices": [],
+			"name": "Dodge"
+		},
+		{
+			"offsets": [
+				-95,
+				300
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-149,
+				72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-104,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MiniSonic",
+	"position": [
+		-350,
+		440
+	],
+	"healthicon": "sonichorried",
+	"flip_x": true,
+	"healthbar_colors": [
+		9,
+		80,
+		109
+	],
+	"camera_position": [
+		-260,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

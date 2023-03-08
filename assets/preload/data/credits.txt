@@ -1,0 +1,3 @@
+Hyano::hyanoo::Musician::(link aqui)::0xFFdb9035
+Yazor::yayzor::Charter and artist::(link aqui)::0xFF9251d6
+Lucas1556::Lucas::Artist and animator::(link aqui)::0xFF456ad1

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tv.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="monitor instance 10000" x="30" y="30" width="217" height="188"/>
+	<SubTexture name="monitor instance 10001" x="347" y="30" width="217" height="188"/>
+	<SubTexture name="monitor instance 10002" x="664" y="30" width="217" height="188"/>
+	<SubTexture name="monitor instance 10003" x="30" y="318" width="217" height="188"/>
+	<SubTexture name="monitor instance 10004" x="347" y="318" width="217" height="188"/>
+</TextureAtlas>

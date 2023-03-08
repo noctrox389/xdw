@@ -1,0 +1,5 @@
+Value 1: Camera Zoom
+
+this value is added to the current camera zoom, as opposed to
+"camZoomPerm", which sets a permanent
+camera zoom regardless of previous value.

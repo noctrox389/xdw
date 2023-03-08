@@ -1,0 +1,77 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"--- scrapped songs ---",
+			"nada",
+			[
+				66,
+				13,
+				0
+			]
+		],
+		[
+			"bootleg",
+			"bootleg",
+			[
+				66,
+				13,
+				0
+			]
+		],
+		[
+			"machina",
+			"eggman",
+			[
+				66,
+				13,
+				0
+			]
+		],
+		[
+			"defeeted",
+			"bfdefeeted",
+			[
+				86,
+				33,
+				193
+			]
+		],
+		[
+			"--- bonus songs ---",
+			"nada",
+			[
+				86,
+				33,
+				133
+			]
+		],
+		[
+			"too slow rerun",
+			"sonicex",
+			[
+				46,
+				53,
+				193
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

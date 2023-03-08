@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="riozinho.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="river2  instance 10000" x="30" y="30" width="331" height="288"/>
+	<SubTexture name="river2  instance 10001" x="461" y="30" width="331" height="288"/>
+	<SubTexture name="river2  instance 10002" x="892" y="30" width="331" height="288"/>
+	<SubTexture name="river2  instance 10003" x="1323" y="30" width="331" height="288"/>
+	<SubTexture name="river2  instance 10004" x="30" y="418" width="331" height="288"/>
+</TextureAtlas>

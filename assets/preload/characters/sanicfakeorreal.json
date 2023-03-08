@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-105,
+				60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sonic Faker Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				97
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sonic Right Faker",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-108,
+				58
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sonic Down Faker",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-93,
+				112
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sonic Up Faker",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-93,
+				82
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Sonic Reveal",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-121,
+				73
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sonic Left Faker",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sonic_FakerForm",
+	"position": [
+		-150,
+		290
+	],
+	"healthicon": "fakersonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		149
+	],
+	"camera_position": [
+		-120,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

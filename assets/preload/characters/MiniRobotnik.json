@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-55,
+				60
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				79,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				123,
+				113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				10,
+				61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-43,
+				-57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				61
+			],
+			"anim": "attack",
+			"fps": 40,
+			"name": "Attack",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MiniRobotnik",
+	"position": [
+		1250,
+		210
+	],
+	"healthicon": "eggman",
+	"flip_x": false,
+	"healthbar_colors": [
+		169,
+		60,
+		29
+	],
+	"camera_position": [
+		-730,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1.8
+}

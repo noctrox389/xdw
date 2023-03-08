@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PernasRo.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PernasR0000" x="30" y="30" width="431" height="206"/>
+	<SubTexture name="PernasR0001" x="30" y="30" width="431" height="206"/>
+	<SubTexture name="PernasR0002" x="561" y="30" width="431" height="206"/>
+	<SubTexture name="PernasR0003" x="561" y="30" width="431" height="206"/>
+	<SubTexture name="PernasR0004" x="1092" y="30" width="431" height="206"/>
+	<SubTexture name="PernasR0005" x="1092" y="30" width="431" height="206"/>
+	<SubTexture name="PernasR0006" x="30" y="336" width="431" height="206"/>
+	<SubTexture name="PernasR0007" x="30" y="336" width="431" height="206"/>
+	<SubTexture name="PernasR0008" x="561" y="336" width="431" height="206"/>
+	<SubTexture name="PernasR0009" x="561" y="336" width="431" height="206"/>
+</TextureAtlas>

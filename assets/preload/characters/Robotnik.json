@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IdleR",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				207,
+				82
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LeftR",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				137
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DownR",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				130
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UpR",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				51
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RightR",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Robotnik",
+	"position": [
+		130,
+		350
+	],
+	"healthicon": "eggman",
+	"flip_x": false,
+	"healthbar_colors": [
+		169,
+		40,
+		29
+	],
+	"camera_position": [
+		-10,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-38,
+				244
+			],
+			"loop": true,
+			"fps": 32,
+			"anim": "idle",
+			"indices": [],
+			"name": "Rerun i"
+		},
+		{
+			"offsets": [
+				872,
+				334
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Rerun l"
+		},
+		{
+			"offsets": [
+				500,
+				82
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Rerun d"
+		},
+		{
+			"offsets": [
+				127,
+				339
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Rerun u"
+		},
+		{
+			"offsets": [
+				42,
+				310
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Rerun r"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Rerun",
+	"position": [
+		-80,
+		70
+	],
+	"healthicon": "Rerun",
+	"flip_x": false,
+	"healthbar_colors": [
+		2,
+		0,
+		252
+	],
+	"camera_position": [
+		-260,
+		-510
+	],
+	"sing_duration": 4,
+	"scale": 2.1
+}
